@@ -1,0 +1,7 @@
+Project Design explains how the ComicCraft application works from the user's input to the final comic.
+
+The working process is:
+
+Input → Gemini AI → Story Generation → Character & Scene Creation → Comic Panels → Final Comic
+
+First, the user enters a story idea or prompt. Then, Gemini AI processes the input and generates the story, characters, dialogues, and scenes. Finally, these contents are arranged into comic panels to create the final comic.
