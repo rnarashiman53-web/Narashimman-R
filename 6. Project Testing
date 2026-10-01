@@ -1,0 +1,13 @@
+6. Project Testing
+
+Project Testing is done to check whether the ComicCraft application works correctly and produces the expected results.
+
+Testing includes:
+
+• Prompt input testing
+• AI response testing
+• Story generation testing
+• Character consistency testing
+• UI and functionality testing
+• Error handling
+• Final comic output testing
