@@ -1,0 +1,11 @@
+Requirements Analysis means identifying the features and functions required for the ComicCraft application.
+
+The main requirements of ComicCraft are:
+
+• User story/prompt input
+• AI story generation using Gemini
+• Character creation
+• Scene and dialogue generation
+• Comic panel creation
+• Simple and user-friendly interface
+• Story preview and export
